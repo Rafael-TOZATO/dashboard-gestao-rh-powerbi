@@ -1,5 +1,7 @@
 # Dashboard de Gestão de Recursos Humanos
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 ## Objetivo do Projeto
 Estruturar e desenvolver um dashboard analítico para o setor de Recursos Humanos, focado na consolidação de métricas corporativas, acompanhamento de indicadores de desempenho e suporte à tomada de decisão estratégica baseada em dados.
 
