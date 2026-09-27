@@ -1,4 +1,6 @@
-# Dashboard de Gestão de Recursos Humanos
+<p align="center">
+  <img src="banner-dashboard-gestao-recursos-humanos.jpg" alt="Dashboard de Gestão de Recursos Humanos Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-AI%20Engineer-success?style=for-the-badge&logo=git" alt="Status">
@@ -7,6 +9,11 @@
   <img src="https://img.shields.io/badge/Python-%20AI-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
 </p>
+
+# Dashboard de Gestão de Recursos Humanos
+
+> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
+> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
 
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
@@ -46,7 +53,16 @@ Durante a fase de implantação e entrega, o projeto exigiu a aplicação de mé
 
 ---
 
-## Contato
-* **LinkedIn:** [Rafael Tozato](https://www.linkedin.com/in/rafaeltozato81)
-* **E-mail:** ornelas.tozato@gmail.com
-* **Portfólio / GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+## Autor
+
+**Rafael Ornelas Tozato**
+
+Engenharia Química | Garantia da Qualidade | Governança 4.0
+
+### Contato
+
+- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
