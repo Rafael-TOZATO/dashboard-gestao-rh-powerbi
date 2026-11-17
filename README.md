@@ -20,8 +20,6 @@
 ## Objetivo do Projeto
 Estruturar e desenvolver um dashboard analítico para o setor de Recursos Humanos, focado na consolidação de métricas corporativas, acompanhamento de indicadores de desempenho e inteligência de pessoas.
 
----
-
 ## Perguntas de Negócio Respondidas pelo Relatório
 * **Qual é o volume total de colaboradores (Headcount) e sua distribuição por departamento?**
   * Análise do quantitativo de funcionários ativos segmentados por setor e cargo.
@@ -32,26 +30,18 @@ Estruturar e desenvolver um dashboard analítico para o setor de Recursos Humano
 * **Como se comporta a distribuição demográfica e o tempo de casa (Tenure)?**
   * Mapeamento do tempo de permanência dos colaboradores e perfil dos setores.
 
----
-
 ## Ferramentas e Tecnologias
 * Microsoft Power BI Desktop
 * Modelagem de Dados
 * Linguagem DAX (Data Analysis Expressions)
 
----
-
 ## Resolução de Problemas e Troubleshooting
 Durante a fase de implantação e entrega, o projeto exigiu a aplicação de métodos de troubleshooting para solucionar impeditivos técnicos relacionados a restrições de dados e performance.
-
----
 
 ## Como Visualizar o Projeto
 1. Realize o download do arquivo com extensão `.pbix` hospedado neste repositório.
 2. Abra o arquivo utilizando a aplicação Microsoft Power BI Desktop.
 3. Navegue entre as páginas do relatório para interagir com as métricas e painéis desenvolvidos.
-
----
 
 ## Autor
 
@@ -59,23 +49,20 @@ Durante a fase de implantação e entrega, o projeto exigiu a aplicação de mé
 
 Engenharia Química | Garantia da Qualidade | Governança 4.0
 
----
+## 📬 CONTATOS E PERFIS
 
-## 💻 PROJETOS E PORTFÓLIOS
-- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
-## 🐙 CÓDIGO E REPOSITÓRIOS
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
-## ✍️ ARTIGOS E PUBLICAÇÕES
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
 
-## 🪟 MICROSOFT LEARN
-- **Perfil:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
 
-## 📬 CONTATOS
-- **E-mail:** ornelas.tozato@gmail.com
-- **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
